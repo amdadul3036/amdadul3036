@@ -28,7 +28,7 @@
 
 </details>
 
-[website]: www.amdadulislam.com
+[website]: https://amdadulislam.com/
 [twitter]: https://twitter.com/AmdadulDhrubo
 [youtube]: https://www.youtube.com/channel/UCB29jphDIYEzlZs77LYGtnw
 [instagram]: https://www.instagram.com/dhruboish/
