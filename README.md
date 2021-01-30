@@ -15,7 +15,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am learning Programming but don't know why!
 
-<img src = "https://github-readme-stats.vercel.app/api?username=amdadul3036&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src = "https://github-readme-stats.vercel.app/api?username=amdadul3036&&show_icons=true&title_color=0a244d&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 ### Connect with me:
