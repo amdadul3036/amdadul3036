@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on Physics
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on the developing community
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 🤔 I’m looking for help with ...
+- 🥅 2021 Goals: Contribute more to Open Source projects 
+- 🤔 I’m looking for help with C++
 - 💬 Ask me about C++ related problems
 - 📫 How to reach me: https://www.linkedin.com/in/mdamdadulislam/
 - 😄 Pronouns: He/His
