@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on Physics
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning only C++ 
 - 👯 I’m looking to collaborate on the developing community
 - 🥅 2021 Goals: Contribute more to Open Source projects 
 - 🤔 I’m looking for help with C++
