@@ -1,6 +1,6 @@
 ### Hello, I am MD Amdadul Islam. My nickname is Dhrubo. 👋
 
-## I'm an undergraduate Physics Student ; I love to learn Code!!
+## I'm an undergraduate Student of Physics ; I love to learn Code!!
 
 
 
